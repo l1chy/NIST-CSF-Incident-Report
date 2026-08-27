@@ -38,4 +38,4 @@ To address this security event, the network security team implemented:
 ---
 
 ## 📄 Project Documentation
-*  **Full Technical Report (PDF):** [View Incident Report Document](./docs/Incident_Report_Analysis.pdf)
+*  **Full Technical Report (PDF):** [View Incident Report Document](./report/Incident_Report_Analysis.pdf)
