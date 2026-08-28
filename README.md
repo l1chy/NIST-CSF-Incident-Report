@@ -32,8 +32,8 @@ To address this security event, the network security team implemented:
 ---
 
 ## 💡 Key Lessons & Takeaways
-* **Proactive Hardening vs. Reactive Response:** Perimeter firewalls must always operate on a default-deny policy with strict rate limiting.
-* **Defense-in-Depth:** Relying solely on basic packet filtering is insufficient; combining stateful firewalls, anti-spoofing verification, and inline IDS/IPS significantly improves and minimizes the attack surface.
+* Perimeter firewalls must always operate on a default-deny policy with strict rate limiting.
+* Relying solely on basic packet filtering is insufficient; combining stateful firewalls, anti-spoofing verification, and inline IDS/IPS significantly improves and minimizes the attack surface.
 
 ---
 
